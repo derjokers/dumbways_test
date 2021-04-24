@@ -29,9 +29,14 @@ Cara pengerjaan untuk soal-soal adalah sebagai berikut :
      ![4a1](https://user-images.githubusercontent.com/76809471/115962919-113b5580-a550-11eb-9d55-b38919ed1cad.PNG)
      b. Query Produk per kategori
      ![4a2](https://user-images.githubusercontent.com/76809471/115962957-3d56d680-a550-11eb-82f7-97bb364c0663.PNG)
+     
      c. Query Tampilan Detail Buku Berdasarkan id
      ![4a3](https://user-images.githubusercontent.com/76809471/115963005-78f1a080-a550-11eb-8fe1-a4f3210729cc.PNG)
      d. Query Menambahkan Buku dan Kategori
+     ![4a4](https://user-images.githubusercontent.com/76809471/115963101-e0a7eb80-a550-11eb-8ddb-0d5b48b8d319.PNG)
+     ![4a5](https://user-images.githubusercontent.com/76809471/115963104-e3a2dc00-a550-11eb-8255-4331b2ff2a51.PNG)
+
+
      
 
 
